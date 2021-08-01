@@ -4,5 +4,6 @@
 vue_pixi(https://github.com/tph00300/vue_pixi_clone_coding.git)를 Import하여 작성하였습니다.
 하나하나 추가될 예정입니다.
 
-목표 : prm.ooo
+목표 : https://prm.ooo/
+
 사용 언어 : vue js, pixi js
